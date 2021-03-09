@@ -1,0 +1,11 @@
+
+*.iml
+*.xml
+*.pth
+*.txt
+ExerciciosdePython/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/not-zip-safe
+ExerciciosdePython/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/PKG-INFO
+ExerciciosdePython/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/__init__.py
+ExerciciosdePython/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/__main__.py
+ExerciciosdePython/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/__init__.py
+ExerciciosdePython/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/basecommand.py
